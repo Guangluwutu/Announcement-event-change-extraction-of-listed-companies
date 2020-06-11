@@ -2,21 +2,13 @@
 本比赛来自CCKS 2019 公众公司公告信息抽取。
 https://www.biendata.com/competition/ccks_2019_5/
 
-由于本比赛采用API调用方式评测结果，所以没有榜单显示。
+Since this competition uses API calls to evaluate the results, no list is displayed.
 
-最后拿到了第五名的成绩，离拿奖就差一名。
+Finally got the fifth place, one less than the prize.
 
-比起其他队伍上了各种高大上的模型，我的这个模型除了使用了jieba分词以外，全部使用了规则抽取。
+Compared to other teams who have used various tall models, my model uses rule extraction in addition to jieba word segmentation.
 
-语法写的特别直白，我就不加说明了。
-
-实验室没得条件，我也不是搞算法的，任务下来了，也冒得办法。
-
-花了俩个月，最后虽然得到了参会的机会，在会上看到各种大佬谈笑风生各种模型算法，见识到了山外有山。
-
-
-
-不过通过这一次比赛，也对自己的代码能力有了一次锻炼，虽然各种结构写的稀烂，放到github上，也算是提醒自己吧。
+The grammar is very straightforward because the laboratory has no conditions, and I am not an algorithm, and the task has dispatch, and I have to take a simple way to solve it.
 
 
 
